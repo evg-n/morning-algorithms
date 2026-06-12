@@ -1,5 +1,7 @@
 # morning-algorithms
 
+# TODO add formatter & think about packaging
+
 ## Running solutions
 
 Run from the repo root via the Makefile (puts the root on `PYTHONPATH` so

@@ -6,7 +6,8 @@ Prefix R: = re-solve
 
 # 2026-06
 
-- 2026-12-06: maximum-twin-sum-of-a-linked-list ✅
+- 2026-12-06: split-a-circular-linked-list - ✅
+- 2026-12-06: maximum-twin-sum-of-a-linked-list - ✅
 - 2026-11-06: palindrome-linked-list - 🔁
 - 2026-07-06: palindrome-linked-list - 🔁
 
