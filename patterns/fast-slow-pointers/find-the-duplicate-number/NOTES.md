@@ -4,7 +4,7 @@ LeetCode 287 - https://leetcode.com/problems/find-the-duplicate-number/
 **Patterns:** 
 - fast & slow pointers
 
-**Difficulty:** Medium
+**Difficulty:** medium
 
 **First solved:** Date: 2026-06-07
 
