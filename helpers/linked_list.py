@@ -21,3 +21,20 @@ def to_list(head):
         out.append(head.val)
         head = head.next
     return out
+
+def find_node_by_idx(head, idx):
+    
+    while idx:
+        idx -= 1
+        head = head.next
+    return head
+
+def build_cycle(values, idx):
+    dummy = ListNode()
+    curr = dummy
+    for v in values:
+        curr.next = ListNode(v)
+        curr = curr.next
+    curr.next = find_node_by_idx(dummy.next, idx)
+    return dummy.next
+
