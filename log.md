@@ -6,6 +6,8 @@ Prefix R: = re-solve
 
 # 2026-06
 
+- 2026-13-06: minimum-window-subsequence - ✅
+- 2026-13-06: repeated-dna-sequences - ✅
 - 2026-12-06: linked-list-cycle-iv - ✅
 - 2026-12-06: linked-list-cycle-iii - ✅
 - 2026-12-06: split-a-circular-linked-list - ✅

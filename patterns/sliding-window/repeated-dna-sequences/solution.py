@@ -13,7 +13,7 @@ def findRepeatedDnaSequences(s):
     
     results = []
 
-    for k, v in seq_to_freq:
+    for k, v in seq_to_freq.items():
         if v > 1:
-            results.append[k]
+            results.append(k)
     return results
