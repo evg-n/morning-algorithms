@@ -1,10 +1,8 @@
 # Maximum twin sum of a linked list
-LeetCode 2130 -https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+LeetCode 2130 - https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 
 **Patterns:** 
 - fast & slow pointers
-
-**Difficulty:** medium
 
 **First solved:** Date: 2026-06-12
 

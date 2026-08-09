@@ -1,10 +1,8 @@
 # Split a circular linked list
-https://leetcode.com/problems/split-a-circular-linked-list/
+LeetCode 2674 - https://leetcode.com/problems/split-a-circular-linked-list/
 
 **Patterns:** 
 - fast & slow pointers
-
-**Difficulty:** medium
 
 **First solved:** Date: 2026-06-12
 

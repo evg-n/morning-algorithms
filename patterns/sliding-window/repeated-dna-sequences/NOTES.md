@@ -1,9 +1,8 @@
 # Repeated DNA sequences
+LeetCode 187 - https://leetcode.com/problems/repeated-dna-sequences/
 
 **Patterns:** 
-- fast & slow pointers
-
-**Difficulty:** easy
+- sliding window
 
 **First solved:** Date: 2026-06-13
 

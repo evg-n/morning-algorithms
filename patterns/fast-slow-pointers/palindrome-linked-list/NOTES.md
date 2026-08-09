@@ -4,8 +4,6 @@ LeetCode 234 - https://leetcode.com/problems/palindrome-linked-list/
 **Patterns:** 
 - fast & slow pointers
 
-**Difficulty:** easy
-
 **First solved:** Date: 2026-06-11
 
 

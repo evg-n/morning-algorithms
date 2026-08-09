@@ -3,8 +3,6 @@
 **Patterns:** 
 - fast & slow pointers
 
-**Difficulty:** ?
-
 **First solved:** Date: 2026-06-12
 
 ## Problem (in my own words)

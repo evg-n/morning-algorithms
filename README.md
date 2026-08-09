@@ -1,6 +1,7 @@
 # morning-algorithms
 
 # TODO add formatter & think about packaging
+# TODO add types checking
 
 ## Running solutions
 
