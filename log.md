@@ -1,12 +1,13 @@
 # Log
 
 Format: date · problem · pattern · verdict · minutes · note
-Verdicts: ✅ done · 🔁 needs re-solve · 🔴 read solution 🟠 suboptimal 🟡 slow
+Verdicts: ✅ done · 🔁 needs re-solve · 🔴 read solution / used hints 🟠 suboptimal 🟡 slow
 Prefix R: = re-solve
 
 
 # 2026-08
 
+- 2016-08-12: longest-repeating-characters-replacement 🔴 🔁
 - 2016-08-09: sliding-window-maximum 🟠 🔁
 
 # 2026-06
