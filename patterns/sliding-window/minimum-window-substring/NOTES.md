@@ -4,7 +4,7 @@ LeetCode 76 - https://leetcode.com/problems/minimum-window-substring/
 **Patterns:** 
 - sliding window
 
-**First solved:** Date: 2026-09-23
+**First solved:** Date: 2026-08-23
 
 ## Problem (in my own words)
 Statement
