@@ -8,7 +8,8 @@ Prefix R: = re-solve
 
 
 # 2026-08
-- 2026-08-25: fruit into baskets ✅
+- 2026-08-25: contains-duplicate-II ✅
+- 2026-08-25: fruit-into-baskets ✅
 - 2026-08-25: diet-plan-performance 🟡 🔁
 - 2026-08-24: maximum-average-subarary-1 ✅
 - 2026-08-24: minimum-size-subarray-sum ✅
@@ -27,4 +28,3 @@ Prefix R: = re-solve
 - 2026-06-12: maximum-twin-sum-of-a-linked-list - ✅
 - 2026-06-11: palindrome-linked-list - 🟡 🔁
 - 2026-06-7: palindrome-linked-list - 🟡 🔁
-
